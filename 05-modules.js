@@ -8,4 +8,3 @@ for (const { grade } of students) {
 
 console.log(`Average:${average(...grades)}`);
 console.log(`Best:${formatGrade(Math.max(...grades))}`);
-
